@@ -50,6 +50,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-raya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-raya/" target="blank">
