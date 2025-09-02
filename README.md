@@ -60,6 +60,10 @@
 
 ## 📫 Connect with Me
 <p align="center">
+  <a href="https://leetcode.com/u/Rahul_Raya/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="30" />
+  </a>
+
   <a href="https://www.linkedin.com/in/rahul-raya/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
