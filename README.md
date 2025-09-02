@@ -57,7 +57,7 @@
 
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rahul_Raya?theme=dark&font=Karma&ext=heatmap)
+
 
 
 ## 📫 Connect with Me
