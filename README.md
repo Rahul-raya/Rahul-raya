@@ -78,7 +78,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-raya&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" 
        alt="Rahul's GitHub Stats" height="150"/>
-  
+</p>
+<p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-raya&theme=radical&hide_border=true" 
        alt="Rahul's GitHub Streak" height="150"/>
