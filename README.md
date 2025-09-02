@@ -25,7 +25,10 @@
 ---
 
 ## 📂 Featured Projects
-- 🚗 **[Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assessment)** – Deep learning project for vehicle damage detection.
+- 🚗 [Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assessment)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=flat&logo=pytorch&logoColor=red)
+
 - 📦 **[Inventory-Management](https://github.com/Rahul-raya/Inventory-Management)** – Inventory system built using Java.
 - 🔁 **[ParaPhrase-Detection-using-Nlp](https://github.com/Rahul-raya/ParaPhrase-Detection-using-Nlp)** – NLP-based text similarity detection.
 - 🏢 **[springboot-department-management](https://github.com/Rahul-raya/springboot-department-management)** – Java Spring Boot backend for department management.
