@@ -55,8 +55,9 @@
   <a href="https://www.linkedin.com/in/rahul-raya/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="rahulraya662005@gmail.com" target="blank">
+  <a href="mailto:rahulraya662005@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" />
-  </a>
+</a>
+
 </p>
 
