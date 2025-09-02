@@ -25,14 +25,42 @@
 ---
 
 ## 📂 Featured Projects
-- 🚗 [Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assessment)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=flat&logo=pytorch&logoColor=red)
 
-- 📦 **[Inventory-Management](https://github.com/Rahul-raya/Inventory-Management)** – Inventory system built using Java.
-- 🔁 **[ParaPhrase-Detection-using-Nlp](https://github.com/Rahul-raya/ParaPhrase-Detection-using-Nlp)** – NLP-based text similarity detection.
-- 🏢 **[springboot-department-management](https://github.com/Rahul-raya/springboot-department-management)** – Java Spring Boot backend for department management.
-- 📊 **[Sentiment-analysis](https://github.com/Rahul-raya/Sentiment-analysis)** – Sentiment classifier on IMDB dataset.
+- 🚗 [Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assessment)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=flat&logo=pytorch&logoColor=red)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=flat&logo=opencv&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+
+- 🔁 [ParaPhrase-Detection-using-Nlp](https://github.com/Rahul-raya/ParaPhrase-Detection-using-Nlp)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen?style=flat)
+  ![Text Similarity](https://img.shields.io/badge/Text%20Similarity-FF6F00?style=flat)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+
+- 🏢 [springboot-department-management](https://github.com/Rahul-raya/springboot-department-management)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+- 🚨 [Accident-detection-prevention-and-reporting-system](https://github.com/Rahul-raya/Accident-detection-prevention-and-reporting-system)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-blue?style=flat)
+  ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-800080?style=flat)
+
+- 📊 [Sentiment-analysis](https://github.com/Rahul-raya/Sentiment-analysis)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-brightgreen?style=flat)
+  ![IMDB Dataset](https://img.shields.io/badge/Dataset-IMDB-yellow?style=flat)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
+
+- 📦 [Inventory-Management](https://github.com/Rahul-raya/Inventory-Management)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![Database](https://img.shields.io/badge/Database-MySQL-informational?style=flat)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 
 ---
