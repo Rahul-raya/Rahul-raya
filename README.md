@@ -73,17 +73,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-raya&show_icons=true&theme=radical" alt="Rahul's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-raya&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-raya&show_icons=true&theme=radical&hide_border=true" alt="Rahul's GitHub Stats" height="150"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-raya&theme=radical&hide_border=true" alt="Rahul's GitHub Streak" height="150"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-raya&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-raya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 
