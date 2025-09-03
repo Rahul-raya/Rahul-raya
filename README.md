@@ -86,10 +86,11 @@
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-raya&layout=compact&theme=radical&hide_border=true&v=1" 
+  <!-- Top Languages (Including Private Repos) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-raya&layout=compact&theme=radical&hide_border=true&count_private=true&v=1" 
        alt="Top Languages" height="150"/>
 </p>
+
 ---
 
 
