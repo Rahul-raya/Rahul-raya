@@ -26,7 +26,7 @@
 
 ## 📂 Featured Projects
 
-- 🚗 [Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assessment)  
+- 🚗 [Car-damage-assessment](https://github.com/Rahul-raya/Car-damage-assesment)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=flat&logo=pytorch&logoColor=red)
   ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=flat&logo=opencv&logoColor=white)
