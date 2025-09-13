@@ -67,7 +67,7 @@
 
 ## 🛠️ Skills & Tools
 - **Languages**: Java, Python, C++
-- **Frameworks**: Spring Boot, Flask, FastAPI
+- **Frameworks**: Spring Boot, TensorFlow , 
 - **AI/ML**: NLP, Deep Learning, Machine Learning, Sentiment Analysis, Image Processing
 - **Databases**: MySQL, MongoDB
 
